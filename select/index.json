@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "またたき",
   "base_artist": "Awesome City Club",
-  "createdAt": "2026-02-27T14:43:02.074273Z",
+  "createdAt": "2026-03-24T03:23:20.263695Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -29,12 +29,29 @@
       "path": "select/03_またたき_mothy.txt"
     },
     {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "またたき (From THE FIRST TAKE)",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/04_またたき_(From_THE_FIRST_TAKE)_Awesome_City_Club.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "またたき",
       "artist": "Awesome City Club",
       "has_synced": false,
       "path": "select/pl_01_またたき_Awesome_City_Club.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "またたき",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/localdb_01_またたき_Awesome_City_Club.lrc",
+      "repo_name": "EJ5cwXt8p1s"
     }
   ]
 }
